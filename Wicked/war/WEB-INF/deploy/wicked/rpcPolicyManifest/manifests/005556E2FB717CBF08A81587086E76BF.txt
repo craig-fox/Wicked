@@ -1,0 +1,2 @@
+serviceClass: demonic.client.GreetingService
+path: 898F4A4D92119A114057AAC8A69FB6CD.gwt.rpc
